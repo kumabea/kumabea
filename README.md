@@ -1,4 +1,4 @@
-- Only known as a tard named eggs
+- Only known as a weirdo named eggs
 - 🌱Web Dev.
 - Do not reach me
 
