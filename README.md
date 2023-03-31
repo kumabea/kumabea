@@ -1,6 +1,6 @@
 - Only known as a weirdo named eggs
-- 🌱Web Dev.
-- Do not reach me
+- 🌱Web Dev student.
+- Do not reach me because I am weird :>
 
 <!---
 kumabea/kumabea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
